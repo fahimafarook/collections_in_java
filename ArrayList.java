@@ -1,4 +1,16 @@
-import java.util.*;
+
+/*   collection
+         |
+        List
+      ___|____
+     |  |  |   |
+     |  |  |  stack
+     |  |  Vector
+     |  LinkedList
+     ArrayList        
+ 
+*/
+//_________ArrayList________
 import java.util.Scanner;
 public class MyClass {
     public static void main(String args[]) {
